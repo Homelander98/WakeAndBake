@@ -1,6 +1,6 @@
-# wakendbake 
+# wakeandbake 
 
-## Restuarant Billing System Using Bash 
+## Food Ordering System Using Bash 
 
 
 
