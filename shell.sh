@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Function to generate a random transaction ID
+# Function to generate a random transaction ID ---
 generate_transaction_id() {
   echo "$(date +%Y%m%d%H%M%S)-$(shuf -i 1000-9999 -n 1)"
 }
